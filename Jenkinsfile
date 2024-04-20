@@ -1,4 +1,4 @@
-@Library(["sharedLib@main"]) _
+@Library(["sharedLib"]) _
 
 mavenBuild(
   gitURL : "https://github.com/ina000007/MavenBuild",
