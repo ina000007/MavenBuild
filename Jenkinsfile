@@ -1,4 +1,4 @@
-@Library(["JenkinsSharedLibrary@main"]) _
+@Library(["sharedLib@main"]) _
 
 mavenBuild(
   gitURL : "https://github.com/anujdevopslearn/MavenBuild",
